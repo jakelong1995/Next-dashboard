@@ -6,15 +6,15 @@ This is a personal project that implements a responsive and modern dashboard usi
 
 ## Features
 
-User Authentication: Secure login system using Next-Auth.
-Responsive Design: Mobile-first approach with media queries for various screen sizes.
-Data Visualization: Integration with chart libraries like Chart.js for displaying analytics.
-API Integration: Fetch and display dynamic data from a third-party API.
-Tech Stack
-Frontend: Next.js, React
-Styling: Tailwind CSS, Styled Components
-Charts: Chart.js
-State Management: React Context API
-Authentication: JWT, NextAuth.js
-Backend: NextJS
-Deployment: Vercel
+- User Authentication: Secure login system using Next-Auth.
+- Responsive Design: Mobile-first approach with media queries for various screen sizes.
+- Data Visualization: Integration with chart libraries like Chart.js for displaying analytics.
+- API Integration: Fetch and display dynamic data from a third-party API.
+- Tech Stack
+- Frontend: Next.js, React
+- Styling: Tailwind CSS, Styled Components
+- Charts: Chart.js
+- State Management: React Context API
+- Authentication: JWT, NextAuth.js
+- Backend: NextJS Server Actions
+- Deployment: Vercel
