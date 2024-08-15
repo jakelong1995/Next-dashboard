@@ -10,7 +10,7 @@ This is a personal project that implements a responsive and modern dashboard usi
 - Responsive Design: Mobile-first approach with media queries for various screen sizes.
 - Data Visualization: Integration with chart libraries like Chart.js for displaying analytics.
 - API Integration: Fetch and display dynamic data from a third-party API.
-- Tech Stack
+  Tech Stack
 - Frontend: Next.js, React
 - Styling: Tailwind CSS, Styled Components
 - Charts: Chart.js
