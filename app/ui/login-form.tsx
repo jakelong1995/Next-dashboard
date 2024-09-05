@@ -22,6 +22,10 @@ export default function LoginForm() {
       <div className="flex-1 rounded-lg bg-gray-50 px-6 pb-4 pt-8">
         <h1 className={`${lusitana.className} mb-3 text-2xl`}>
           Please log in to continue.
+          <br />
+          ID: user@nextmail.com
+          <br />
+          Password: 123456
         </h1>
         <div className="w-full">
           <div>
