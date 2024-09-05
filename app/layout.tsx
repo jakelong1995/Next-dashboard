@@ -3,8 +3,11 @@ import { inter } from "@/app/ui/fonts";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: { template: "Acme - %s", default: "Acme is a sample application." },
-  description: "Acme is a sample application.",
+  title: {
+    template: "Invoice - %s",
+    default: "Invoice is a sample application.",
+  },
+  description: "Invoice is a sample application.",
 };
 
 export default function RootLayout({

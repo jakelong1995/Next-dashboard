@@ -1,8 +1,8 @@
-# Acme Dashboard
+# Invoice Dashboard
 
 ## Overview
 
-Acme Dashboard is a sample Next.js application demonstrating a modern web dashboard with authentication, data management, and responsive design.
+Invoice Dashboard is a sample Next.js application demonstrating a modern web dashboard with authentication, data management, and responsive design.
 
 ## Features
 
