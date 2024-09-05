@@ -2,7 +2,7 @@
 
 ## Overview
 
-Invoice Dashboard is a sample Next.js application demonstrating a modern web dashboard with authentication, data management, and responsive design.
+Invoice Dashboard is a Next.js application demonstrating a modern web dashboard with authentication, data management, and responsive design.
 
 ## Features
 
